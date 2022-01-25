@@ -242,4 +242,5 @@
             decoder.stop().play();
         }
     });
-}).call(window.Page = window.Page || {});
+});
+// }).call(window.Page = window.Page || {});
